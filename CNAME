@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="GovBridge Digital - Empowering nations through digital transformation">
+    <title>GovBridge Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Welcome to GovBridge Digital</h1>
+            <p>Empowering nations through digital transformation for a brighter future.</p>
+            <a href="#services" class="cta-btn">Explore Our Services</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about">
+        <h2>About Us</h2>
+        <p>GovBridge Digital is a non-profit organization committed to empowering nations through digital innovation.
+            We focus on improving public services, fostering digital literacy, and enhancing infrastructure. Our goal is to
+            drive sustainable growth and provide accessible solutions for everyone.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="service-card">
+            <h3>Digital Infrastructure Development</h3>
+            <p>We help countries build robust broadband networks, mobile infrastructure, and reliable online platforms.</p>
+        </div>
+        <div class="service-card">
+            <h3>Digital Literacy Programs</h3>
+            <p>We provide training and education to empower populations with the skills needed for a digital world.</p>
+        </div>
+        <div class="service-card">
+            <h3>E-Governance Solutions</h3>
+            <p>We develop secure online platforms that improve government transparency, efficiency, and citizen engagement.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>If you’re interested in learning more about our services or how we can assist your nation in its digital journey,
+            feel free to reach out.</p>
+        <a href="mailto:contact@govbridge.org" class="cta-btn">Contact Us</a>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 GovBridge Digital | All Rights Reserved</p>
+    </footer>
+
+</body>
+
+</html>
